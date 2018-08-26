@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Fac
+Comment=Fac P2P Cryptocurrency
+Comment[fr]=Fac, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Fac, eşten eşe kriptografik sanal para birimi
+Exec=fac-qt %u
+Terminal=false
+Type=Application
+Icon=fac128
+MimeType=x-scheme-handler/fac;
+Categories=Office;Finance;

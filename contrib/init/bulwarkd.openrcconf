@@ -1,0 +1,26 @@
+# /etc/conf.d/facd: config file for /etc/init.d/facd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/fac/fac.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/facd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/facd.pid"
+
+# Where to write facd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/facd"
+
+# User and group to own facd process
+#BITCOIND_USER="fac"
+#BITCOIND_GROUP="fac"
+
+# Path to facd executable
+#BITCOIND_BIN="/usr/bin/facd"
+
+# Nice value to run facd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
