@@ -1,5 +1,5 @@
-![Fac Logo](https://faccrypto.com/wp-content/uploads/2018/03/Badge-Full-Color.svg)
-
+![Fac Logo](https://factrading.com/local/templates/wox/assets/img/logo.png)
+![Website](https://www.factrading.com)
 Fac Cryptocurrency
 &middot;
 [![GitHub license](https://img.shields.io/github/license/fac-crypto/Fac.svg)](https://github.com/fac-crypto/Fac/blob/master/COPYING) [![Build Status](https://travis-ci.org/fac-crypto/Fac.svg?branch=master)](https://travis-ci.org/fac-crypto/Fac) [![GitHub version](https://badge.fury.io/gh/fac-crypto%2FFac.svg)](https://badge.fury.io/gh/fac-crypto%2FFac) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/faccrypto)
